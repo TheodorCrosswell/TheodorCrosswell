@@ -1,6 +1,6 @@
 # Hi, I'm Theodor Crosswell
 
-I'm a data professional passionate about transforming raw data into actionable insights and compelling visual stories. My expertise lies in the end-to-end business intelligence workflow, from data extraction and transformation using SQL to building interactive, user-friendly dashboards in Power BI and Excel.
+I'm a data enthusiast passionate about transforming raw data into actionable insights and compelling visual stories. My expertise lies in the end-to-end business intelligence workflow, from data extraction and transformation using SQL to building interactive, user-friendly dashboards in Power BI and Excel.
 
 ---
 
