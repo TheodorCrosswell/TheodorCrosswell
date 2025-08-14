@@ -1,18 +1,20 @@
 # Hi, I'm Theodor Crosswell
 
-I'm a data enthusiast passionate about transforming raw data into actionable insights and compelling visual stories. My expertise lies in the end-to-end business intelligence workflow, from data extraction and transformation using SQL to building interactive, user-friendly dashboards in Power BI and Excel.
+I'm a data enthusiast passionate about transforming raw data into actionable insights and building intelligent, data-driven applications. My expertise spans the entire data lifecycle, from creating robust data pipelines and performing in-depth analysis with SQL and Python to developing AI-powered search tools and crafting compelling visual stories with Power BI and Excel.
 
 ---
 
 ### 💡 About Me
 
-I thrive on uncovering the narrative hidden within data. My approach is rooted in a solid understanding of data modeling, advanced querying, and a keen eye for effective visualization. I enjoy building robust, scalable solutions that empower stakeholders to make data-driven decisions.
+I thrive on uncovering the narrative hidden within data and building innovative solutions to make information more accessible and actionable. My approach is rooted in a solid understanding of data modeling, advanced querying, and a keen eye for effective visualization and application design. I enjoy building robust, scalable systems that empower stakeholders to make data-driven decisions.
 
--   **Data Visualization & Dashboarding:** Crafting interactive and intuitive dashboards in Power BI and Excel that provide at-a-glance KPIs and deep-dive analytical capabilities.
--   **Advanced SQL:** Writing clean, efficient, and modular SQL using Common Table Expressions (CTEs), Window Functions, and Stored Procedures to perform complex analysis and build reliable data pipelines.
--   **Data Modeling & Warehousing:** Designing and implementing layered data architectures (Bronze, Silver, Gold) and star schemas to create a single source of truth for analytics.
--   **Exploratory Data Analysis (EDA):** Systematically investigating datasets to uncover patterns, validate assumptions, and answer critical business questions.
-
+*   **AI and Semantic Search:** Building applications with local Large Language Models (LLMs) to provide AI-powered answers and semantic search capabilities, making large volumes of text easily searchable.
+*   **Data Pipeline & Web Scraping:** Developing automated data pipelines to scrape, clean, and validate data using high-performance libraries like `polars` and `patito` for data model validation.
+*   **Data Visualization & Dashboarding:** Crafting interactive and intuitive dashboards in Power BI and Excel that provide at-a-glance KPIs and deep-dive analytical capabilities.
+*   **Advanced SQL:** Writing clean, efficient, and modular SQL using Common Table Expressions (CTEs), Window Functions, and Stored Procedures to perform complex analysis and build reliable data pipelines.
+*   **Data Modeling & Warehousing:** Designing and implementing layered data architectures (Bronze, Silver, Gold) and star schemas to create a single source of truth for analytics.
+*   **Exploratory Data Analysis (EDA):** Systematically investigating datasets to uncover patterns, validate assumptions, and answer critical business questions.
+  
 ---
 
 ### 🔧 Technologies & Tools
@@ -103,4 +105,9 @@ Here are some of the projects I've worked on:
 
 I'm always open to connecting with other data enthusiasts and discussing new opportunities. Feel free to reach out!
 
+I am currently open to work.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodor-crosswell-a08b4a2a5/)
+[![Hire me](https://img.shields.io/badge/Hire%20me-blue?style=for-the-badge)](mailto:theodor.crosswell@gmail.com)
+
+My email: theodor.crosswell@gmail.com
