@@ -120,6 +120,15 @@ Here are some of the projects I've worked on:
 
 ---
 
+### 🐍 Python
+
+*   **[All The Preaching Search Tools](https://github.com/TheodorCrosswell/All_The_Preaching_Search_Tools)**
+    > A powerful tool for performing semantic search and receiving AI-powered answers from the "All The Preaching" transcripts. This project utilizes a locally-run Large Language Model (LLM) and a user-friendly Streamlit interface to make a vast library of sermons easily searchable.
+    >
+    > *`Skills: Semantic Search, AI Q&A, Local LLM, Streamlit, ChromaDB, Sentence Transformers`*
+
+---
+
 ### 🔗 Connect with Me
 
 I'm always open to connecting with other data enthusiasts and discussing new opportunities. Feel free to reach out!
