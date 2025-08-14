@@ -26,6 +26,7 @@ I thrive on uncovering the narrative hidden within data and building innovative 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 [![DuckDB](https://img.shields.io/badge/DuckDB-FFFF00?style=for-the-badge&logo=duckdb&logoColor=black)](#)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge&logo=chroma&logoColor=white)![Pinecone](https://img.shields.io/badge/Pinecone-3C77C4?style=for-the-badge&logo=pinecone&logoColor=white)![DataStax Astra](https://img.shields.io/badge/DataStax%20Astra-2CD4E0?style=for-the-badge&logo=datastax&logoColor=white)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 
 ### Data Science & Machine Learning
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
