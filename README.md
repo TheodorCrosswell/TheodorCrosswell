@@ -9,7 +9,9 @@ I'm a data enthusiast passionate about transforming raw data into actionable ins
 I thrive on uncovering the narrative hidden within data and building innovative solutions to make information more accessible and actionable. My approach is rooted in a solid understanding of data modeling, advanced querying, and a keen eye for effective visualization and application design. I enjoy building robust, scalable systems that empower stakeholders to make data-driven decisions.
 
 *   **AI and Semantic Search:** Building applications with local Large Language Models (LLMs) to provide AI-powered answers and semantic search capabilities, making large volumes of text easily searchable.
-*   **Data Pipeline & Web Scraping:** Developing automated data pipelines to scrape, clean, and validate data using high-performance libraries like `polars` and `patito` for data model validation.
+*   **Cloud Deployment & Containerization:** Deploying scalable applications using Docker for containerization and Google Cloud Platform for cloud hosting and services.
+*   **Frontend Development & Interactive Mapping:** Building responsive user interfaces with HTML/CSS/JavaScript and creating interactive data visualizations using libraries like Leaflet.js.
+*   **Data Pipeline & Web Scraping:** Developing automated data pipelines to scrape, clean, and validate data using high-performance libraries like polars and patito for data model validation.
 *   **Data Visualization & Dashboarding:** Crafting interactive and intuitive dashboards in Power BI and Excel that provide at-a-glance KPIs and deep-dive analytical capabilities.
 *   **Advanced SQL:** Writing clean, efficient, and modular SQL using Common Table Expressions (CTEs), Window Functions, and Stored Procedures to perform complex analysis and build reliable data pipelines.
 *   **Data Modeling & Warehousing:** Designing and implementing layered data architectures (Bronze, Silver, Gold) and star schemas to create a single source of truth for analytics.
@@ -51,6 +53,48 @@ I thrive on uncovering the narrative hidden within data and building innovative 
 
 Here are some of the projects I've worked on:
 
+---
+
+### 🐍 Python
+
+*   **[KJV Search Tools](https://github.com/TheodorCrosswell/KJV_Search_Tools)**
+    > An interactive tool for visualizing semantic similarity across all verses in the King James Bible. This project uses a sentence-embedding model to generate a vast grid of color-coded tiles, where each pixel represents the similarity between two verses. The map is served via a FastAPI backend and is explorable with a Leaflet.js frontend, allowing users to discover textual connections and patterns.
+    > 
+    > Demo site: [kjv-search-tools.online](kjv-search-tools.online)
+    >
+    > *`Skills: FastAPI, Leaflet.js, ChromaDB, Sentence Transformers, Polars, NumPy, Pillow`*
+
+*   **[All The Preaching Search Tools](https://github.com/TheodorCrosswell/All_The_Preaching_Search_Tools)**
+    > A powerful tool for performing semantic search and receiving AI-powered answers from the "All The Preaching" transcripts. This project utilizes a locally-run Large Language Model (LLM) and a user-friendly Streamlit interface to make a vast library of sermons easily searchable.
+    >
+    > *`Skills: Semantic Search, AI Q&A, Local LLM, Streamlit, ChromaDB, Sentence Transformers`*
+
+*   **[All The Preaching - Web Scraping Pipeline](https://github.com/TheodorCrosswell/All-The-Preaching-Web-Scraping-Pipeline)**
+    > A robust data pipeline that automatically scrapes, cleans, and validates sermon transcripts. This project uses `polars` for high-performance data manipulation and `patito` for data model validation, preparing the text for embedding into a vector database for AI applications.
+    >
+    > *`Skills: Data Pipeline, Web Scraping, Data Validation, polars, patito`*
+
+---
+
+### 🗄️ MS SQL Server
+
+*   **[MSSQL Data Warehouse Implementation](https://github.com/TheodorCrosswell/DataWarehouseProject)**
+    > An end-to-end implementation of a layered data warehouse (Bronze, Silver, Gold) in MS SQL Server. Uses stored procedures to automate ETL processes and creates a structured, analytics-ready data model with fact and dimension tables.
+    >
+    > *`Skills: Data Warehousing, ETL/ELT, Stored Procedures, Data Modeling, Schema Design`*
+
+*   **[SQL Advanced Data Analysis](https://github.com/TheodorCrosswell/AdvancedDataAnalysisProject)**
+    > A project focused on deriving business insights using advanced SQL. Features complex queries with CTEs and Window Functions to create production-ready reports and views for customer and product analysis, showcasing a refactoring process from inefficient queries to modular, optimized code.
+    >
+    > *`Skills: Advanced SQL, CTEs, Window Functions, Data Segmentation, KPI Calculation`*
+
+*   **[Exploratory Data Analysis (EDA) in SQL](https://github.com/TheodorCrosswell/ExploratoryDataAnalysisProject)**
+    > A comprehensive Exploratory Data Analysis (EDA) performed entirely in SQL. This project showcases a systematic approach to investigating a database, from schema discovery to answering key business questions about customers, products, and sales trends.
+    >
+    > *`Skills: Exploratory Data Analysis, SQL Querying, Business Acumen, Ranking Functions`*
+
+---
+
 ### 📊 Power BI
 
 *   **[Data Jobs Analysis Dashboard](https://github.com/TheodorCrosswell/DataJobsDashboard_PowerBI)**
@@ -66,39 +110,6 @@ Here are some of the projects I've worked on:
     > A fully interactive sales dashboard built entirely in Excel. Demonstrates advanced data modeling and visualization using PivotTables, Slicers, and Timelines to analyze sales performance across different countries, products, and customer segments.
     >
     > *`Skills: Advanced Excel, PivotTables & Charts, Slicers, Dashboard Design`*
-
----
-
-### 🗄️ MS SQL Server
-
-*   **[SQL Advanced Data Analysis](https://github.com/TheodorCrosswell/AdvancedDataAnalysisProject)**
-    > A project focused on deriving business insights using advanced SQL. Features complex queries with CTEs and Window Functions to create production-ready reports and views for customer and product analysis, showcasing a refactoring process from inefficient queries to modular, optimized code.
-    >
-    > *`Skills: Advanced SQL, CTEs, Window Functions, Data Segmentation, KPI Calculation`*
-
-*   **[MSSQL Data Warehouse Implementation](https://github.com/TheodorCrosswell/DataWarehouseProject)**
-    > An end-to-end implementation of a layered data warehouse (Bronze, Silver, Gold) in MS SQL Server. Uses stored procedures to automate ETL processes and creates a structured, analytics-ready data model with fact and dimension tables.
-    >
-    > *`Skills: Data Warehousing, ETL/ELT, Stored Procedures, Data Modeling, Schema Design`*
-
-*   **[Exploratory Data Analysis (EDA) in SQL](https://github.com/TheodorCrosswell/ExploratoryDataAnalysisProject)**
-    > A comprehensive Exploratory Data Analysis (EDA) performed entirely in SQL. This project showcases a systematic approach to investigating a database, from schema discovery to answering key business questions about customers, products, and sales trends.
-    >
-    > *`Skills: Exploratory Data Analysis, SQL Querying, Business Acumen, Ranking Functions`*
-
----
-
-### 🐍 Python
-
-*   **[All The Preaching Search Tools](https://github.com/TheodorCrosswell/All_The_Preaching_Search_Tools)**
-    > A powerful tool for performing semantic search and receiving AI-powered answers from the "All The Preaching" transcripts. This project utilizes a locally-run Large Language Model (LLM) and a user-friendly Streamlit interface to make a vast library of sermons easily searchable.
-    >
-    > *`Skills: Semantic Search, AI Q&A, Local LLM, Streamlit, ChromaDB, Sentence Transformers`*
-
-*   **[All The Preaching - Web Scraping Pipeline](https://github.com/TheodorCrosswell/All-The-Preaching-Web-Scraping-Pipeline)**
-    > A robust data pipeline that automatically scrapes, cleans, and validates sermon transcripts. This project uses `polars` for high-performance data manipulation and `patito` for data model validation, preparing the text for embedding into a vector database for AI applications.
-    >
-    > *`Skills: Data Pipeline, Web Scraping, Data Validation, polars, patito`*
 
 ---
 
