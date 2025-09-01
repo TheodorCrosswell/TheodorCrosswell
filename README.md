@@ -22,30 +22,80 @@ I thrive on uncovering the narrative hidden within data and building innovative 
 ### 🔧 Technologies & Tools
 
 ### Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)![NoSQL](https://img.shields.io/badge/NoSQL-E34F26?style=for-the-badge&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![NoSQL](https://img.shields.io/badge/NoSQL-E34F26?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/NoSQL)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Databases
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-[![DuckDB](https://img.shields.io/badge/DuckDB-FFFF00?style=for-the-badge&logo=duckdb&logoColor=black)](#)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge&logo=chroma&logoColor=white)![Pinecone](https://img.shields.io/badge/Pinecone-3C77C4?style=for-the-badge&logo=pinecone&logoColor=white)![DataStax Astra](https://img.shields.io/badge/DataStax%20Astra-2CD4E0?style=for-the-badge&logo=datastax&logoColor=white)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFFF00?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge&logo=chroma&logoColor=white)](https://www.trychroma.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-3C77C4?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![DataStax Astra](https://img.shields.io/badge/DataStax%20Astra-2CD4E0?style=for-the-badge&logo=datastax&logoColor=white)](https://www.datastax.com/products/datastax-astra)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 ### Data Science & Machine Learning
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-[![Polars](https://img.shields.io/badge/Polars-1D202D?style=for-the-badge&logo=polars&logoColor=white)](#)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-A9A9A9?style=for-the-badge&logo=python&logoColor=white)![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-4A148C?style=for-the-badge&logo=huggingface&logoColor=white)![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Polars](https://img.shields.io/badge/Polars-1D202D?style=for-the-badge&logo=polars&logoColor=white)](https://www.pola.rs/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://pydantic.dev/)
+[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-A9A9A9?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
+[![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-4A148C?style=for-the-badge&logo=huggingface&logoColor=white)](https://www.sbert.net/)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ### Data Visualization
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)![Bokeh](https://img.shields.io/badge/Bokeh-4682B4?style=for-the-badge&logo=bokeh&logoColor=white)![Datashader](https://img.shields.io/badge/Datashader-000000?style=for-the-badge&logo=python&logoColor=white)![Holoviews](https://img.shields.io/badge/HoloViews-C71585?style=for-the-badge&logo=python&logoColor=white)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/en-us/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Bokeh](https://img.shields.io/badge/Bokeh-4682B4?style=for-the-badge&logo=bokeh&logoColor=white)](https://bokeh.org/)
+[![Datashader](https://img.shields.io/badge/Datashader-000000?style=for-the-badge&logo=python&logoColor=white)](https://datashader.org/)
+[![Holoviews](https://img.shields.io/badge/HoloViews-C71585?style=for-the-badge&logo=python&logoColor=white)](https://holoviews.org/)
+[![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
+[![Pillow](https://img.shields.io/badge/Pillow-B4D4FF?style=for-the-badge&logo=pillow&logoColor=black)]((https://github.com/python-pillow/Pillow))
 
 ### Productivity & Design
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)![Excalidraw](https://img.shields.io/badge/Excalidraw-6C56CF?style=for-the-badge&logo=excalidraw&logoColor=white)![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=draw-dot-io&logoColor=white)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Excalidraw](https://img.shields.io/badge/Excalidraw-6C56CF?style=for-the-badge&logo=excalidraw&logoColor=white)](https://excalidraw.com/)
+[![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=draw-dot-io&logoColor=white)](https://www.drawio.com/)
+
+### Cloud
+
+[![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloudrun&logoColor=white)](https://cloud.google.com/run)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![SlowAPI](https://img.shields.io/badge/SlowAPI-005571?style=for-the-badge&logo=slowapi&logoColor=white)](https://slowapi.readthedocs.io/en/latest/)
+[![Uvicorn](https://img.shields.io/badge/Uvicorn-27BEB6?style=for-the-badge&logo=uvicorn&logoColor=white)](https://www.uvicorn.org/)
 
 ### Other
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![PocketFlow](https://img.shields.io/badge/PocketFlow-FF69B4?style=for-the-badge)![Patito](https://img.shields.io/badge/Patito-FFD700?style=for-the-badge)![WebVTT](https://img.shields.io/badge/WebVTT-808080?style=for-the-badge)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PocketFlow](https://img.shields.io/badge/PocketFlow-FF69B4?style=for-the-badge)](https://github.com/The-Pocket/PocketFlow)
+[![Patito](https://img.shields.io/badge/Patito-FFD700?style=for-the-badge)](https://github.com/JakobGM/patito)
+[![WebVTT](https://img.shields.io/badge/WebVTT-808080?style=for-the-badge)](https://pypi.org/project/webvtt-py/)
 
 ### Work Experience/Skills
-![IT Support](https://img.shields.io/badge/IT%20Support-0078D4?style=for-the-badge)![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)![Service Electrician](https://img.shields.io/badge/Service%20Electrician-FFD700?style=for-the-badge)![Lighting Technician](https://img.shields.io/badge/Lighting%20Technician-FFD700?style=for-the-badge)![Work Near Power Lines](https://img.shields.io/badge/Work%20Near%20Power%20Lines-FFD700?style=for-the-badge)![Sign Install & Repair](https://img.shields.io/badge/Sign%20Install%20%26%20Repair-4682B4?style=for-the-badge)![Aerial & Bucket Truck Operation](https://img.shields.io/badge/Aerial%20%26%20Bucket%20Truck%20Operation-FF8C00?style=for-the-badge)![Medium--Duty Truck Driving](https://img.shields.io/badge/Medium--Duty%20Truck%20Driving-FF8C00?style=for-the-badge)![Heavy & Large Load Transport](https://img.shields.io/badge/Heavy%20%26%20Large%20Load%20Transport-FF8C00?style=for-the-badge)![Trailer Towing](https://img.shields.io/badge/Trailer%20Towing-FF8C00?style=for-the-badge)![Tree Trimming & Felling](https://img.shields.io/badge/Tree%20Trimming%20%26%20Felling-228B22?style=for-the-badge)![Tree Climbing](https://img.shields.io/badge/Tree%20Climbing-228B22?style=for-the-badge)![Customer Service](https://img.shields.io/badge/Customer%20Service-00A99D?style=for-the-badge)![Independent Work](https://img.shields.io/badge/Independent%20Work-8A2BE2?style=for-the-badge)![Teamwork](https://img.shields.io/badge/Teamwork-8A2BE2?style=for-the-badge)
+![IT Support](https://img.shields.io/badge/IT%20Support-0078D4?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
+![Service Electrician](https://img.shields.io/badge/Service%20Electrician-FFD700?style=for-the-badge)
+![Lighting Technician](https://img.shields.io/badge/Lighting%20Technician-FFD700?style=for-the-badge)
+![Work Near Power Lines](https://img.shields.io/badge/Work%20Near%20Power%20Lines-FFD700?style=for-the-badge)
+![Sign Install & Repair](https://img.shields.io/badge/Sign%20Install%20%26%20Repair-4682B4?style=for-the-badge)
+![Aerial & Bucket Truck Operation](https://img.shields.io/badge/Aerial%20%26%20Bucket%20Truck%20Operation-FF8C00?style=for-the-badge)
+![Medium--Duty Truck Driving](https://img.shields.io/badge/Medium--Duty%20Truck%20Driving-FF8C00?style=for-the-badge)
+![Heavy & Large Load Transport](https://img.shields.io/badge/Heavy%20%26%20Large%20Load%20Transport-FF8C00?style=for-the-badge)
+![Trailer Towing](https://img.shields.io/badge/Trailer%20Towing-FF8C00?style=for-the-badge)
+![Tree Trimming & Felling](https://img.shields.io/badge/Tree%20Trimming%20%26%20Felling-228B22?style=for-the-badge)
+![Tree Climbing](https://img.shields.io/badge/Tree%20Climbing-228B22?style=for-the-badge)
+![Customer Service](https://img.shields.io/badge/Customer%20Service-00A99D?style=for-the-badge)
+![Independent Work](https://img.shields.io/badge/Independent%20Work-8A2BE2?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-8A2BE2?style=for-the-badge)
 
 ---
 
@@ -60,7 +110,7 @@ Here are some of the projects I've worked on:
 *   **[KJV Search Tools](https://github.com/TheodorCrosswell/KJV_Search_Tools)**
     > An interactive tool for visualizing semantic similarity across all verses in the King James Bible. This project uses a sentence-embedding model to generate a vast grid of color-coded tiles, where each pixel represents the similarity between two verses. The map is served via a FastAPI backend and is explorable with a Leaflet.js frontend, allowing users to discover textual connections and patterns.
     > 
-    > Demo site: [kjv-search-tools.online](kjv-search-tools.online)
+    > Demo site: [kjv-search-tools.online](http://kjv-search-tools.online)
     >
     > *`Skills: FastAPI, Leaflet.js, ChromaDB, Sentence Transformers, Polars, NumPy, Pillow`*
 
