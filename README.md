@@ -59,7 +59,7 @@ I thrive on uncovering the narrative hidden within data and building innovative 
 [![Datashader](https://img.shields.io/badge/Datashader-000000?style=for-the-badge&logo=python&logoColor=white)](https://datashader.org/)
 [![Holoviews](https://img.shields.io/badge/HoloViews-C71585?style=for-the-badge&logo=python&logoColor=white)](https://holoviews.org/)
 [![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
-[![Pillow](https://img.shields.io/badge/Pillow-B4D4FF?style=for-the-badge&logo=pillow&logoColor=black)]((https://github.com/python-pillow/Pillow))
+[![Pillow](https://img.shields.io/badge/Pillow-B4D4FF?style=for-the-badge&logo=pillow&logoColor=black)](https://github.com/python-pillow/Pillow)
 
 ### Productivity & Design
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
