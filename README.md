@@ -119,7 +119,7 @@ Here are some of the projects I've worked on:
     >
     > *`Skills: Semantic Search, AI Q&A, Local LLM, Streamlit, ChromaDB, Sentence Transformers`*
 
-*   **[All The Preaching - Web Scraping Pipeline](https://github.com/TheodorCrosswell/All-The-Preaching-Web-Scraping-Pipeline)**
+*   **[All The Preaching - Web Scraping Pipeline](https://github.com/TheodorCrosswell/All_The_Preaching_Web_Scraping_Pipeline)**
     > A robust data pipeline that automatically scrapes, cleans, and validates sermon transcripts. This project uses `polars` for high-performance data manipulation and `patito` for data model validation, preparing the text for embedding into a vector database for AI applications.
     >
     > *`Skills: Data Pipeline, Web Scraping, Data Validation, polars, patito`*
